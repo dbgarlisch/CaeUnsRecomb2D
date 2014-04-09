@@ -33,6 +33,6 @@ INABILITY TO USE THESE SCRIPTS EVEN IF POINTWISE HAS BEEN ADVISED OF THE
 POSSIBILITY OF SUCH DAMAGES AND REGARDLESS OF THE FAULT OR NEGLIGENCE OF
 POINTWISE.
 
-[TriToQuadImage]: https://raw.github.com/dbgarlisch/CaeUnsPrint3D/master/triToQuad.png  "tris converted to quads Image"
+[TriToQuadImage]: https://raw.github.com/dbgarlisch/CaeUnsRecomb2D/master/triToQuad.png  "tris converted to quads Image"
 [SDKdocs]: http://www.pointwise.com/plugins
 [SDKdownload]: http://www.pointwise.com/plugins/#sdk_downloads
