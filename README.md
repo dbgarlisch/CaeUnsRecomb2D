@@ -14,6 +14,7 @@ To build the CaeUnsRecomb2D plugin you must integrate this source code into your
 * Configure and validate the SDK following the [SDK's instructions][SDKdocs].
 * Create an Recomb2D plugin project using the mkplugin script: `mkplugin -uns -cpp Recomb2D`
 * Replace the project's generated files with the files from this repository.
+* This plugin uses the Configurable Math Library. You can download it from the [CML website][CMLwebsite].
 
 
 ## Disclaimer
@@ -36,3 +37,4 @@ POINTWISE.
 [TriToQuadImage]: https://raw.github.com/dbgarlisch/CaeUnsRecomb2D/master/triToQuad.png  "tris converted to quads Image"
 [SDKdocs]: http://www.pointwise.com/plugins
 [SDKdownload]: http://www.pointwise.com/plugins/#sdk_downloads
+[CMLwebsite]: http://cmldev.net/
